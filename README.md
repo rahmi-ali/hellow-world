@@ -1,3 +1,4 @@
 # hellow-world
 projet de test de compte github 
-avec ce premier fichier readme
+creation de fichier commande.sql
+qui permet de charger les données vers la base de données
